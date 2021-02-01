@@ -1,0 +1,31 @@
+﻿  Parser.c
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(67,36): warning C4013: 'checkIfProtoOrFunc' undefined; assuming extern returning int
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(83,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(56,9): warning C4101: 'temp_token': unreferenced local variable
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(158,29): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(267,15): warning C4098: 'Parse_VAR_DEC_TAG': 'void' function returning a value
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(272,15): warning C4098: 'Parse_VAR_DEC_TAG': 'void' function returning a value
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(276,13): warning C4098: 'Parse_VAR_DEC_TAG': 'void' function returning a value
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(334,28): warning C4098: 'Parse_DIM_SIZES_TAG': 'void' function returning a value
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(336,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(493,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(552,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(584,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(653,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(709,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(825,19): warning C4101: 'currentArrayIndex': unreferenced local variable
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(949,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(987,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1034,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1127,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1188,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1300,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1380,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1516,30): warning C4566: character represented by universal-character-name '\u03F5' cannot be represented in the current code page (1255)
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1644,13): warning C4101: 'funcEntry': unreferenced local variable
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1678,29): warning C4047: 'function': 'size_t' differs in levels of indirection from 'int *'
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1678,29): warning C4024: 'calloc': different types for formal and actual parameter 1
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1678,43): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(1684,54): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\MAY\Desktop\Matala3Final\Parser.c(136): warning C4715: 'checkIfProtoOrFunc': not all control paths return a value
+  Matala3Final.vcxproj -> C:\Users\MAY\Desktop\Matala3Final\Debug\Matala3Final.exe
